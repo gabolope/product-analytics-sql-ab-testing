@@ -1,0 +1,8 @@
+pandas==3.0.6
+jupyter==1.1.1
+matplotlib==3.11.2
+scipy==1.18.1
+seaborn==0.13.2
+google-cloud-bigquery==3.46.1
+db-dtypes==1.7.2
+statsmodels==0.15.0
