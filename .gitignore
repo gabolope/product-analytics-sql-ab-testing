@@ -4,7 +4,9 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 
+NOTAS.md
 PLAN.md
+SQL_CONCEPTOS.md
 CLAUDE.md
 
 credentials*.json
